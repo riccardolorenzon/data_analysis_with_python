@@ -38,3 +38,5 @@ Temporary Items
 *.iml
 
 env
+
+.ipynb_checkpoints/Logistic Regression-checkpoint.ipynb
